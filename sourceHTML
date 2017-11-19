@@ -1,0 +1,32 @@
+<link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
+<div class="container">
+  <div class="title col-xs-12 text-center">
+    <h1>Sam Mills</h1>
+    <h3>"Keep Pounding"</h3>
+  </div>
+  <div>
+    
+  </div>
+  <div class="list align-center text-center col-xs-12">
+    <img class="img-responsive"           src="http://images.performgroup.com/di/library/omnisport/76/aa/sam-mills-101117-usnews-getty-ftr_6j0ou6inzq4z12ta8eyqlgnuv.jpg?t=208141895&w=960&quality=70" alt="">
+    <h4>The Life of Sam Mills</h4>
+    <ul class="text-left">
+      <li>1959: Born in Neptune City, NJ</li>
+      <li>1977-1980: Plays for Montclair State College, where he is the all-time leader in career tackles, tackles in a season, and tackles in a game</li>
+      <li>1981-1982: Signs with the Cleveland Browns, but is released after the preseason. Signs with the Toronto Argonauts, but is released before the start of the season.</li>
+      <li>1982-1985: Tries out for the Philidelphia Stars of the United States Football League and makes the team. Plays for the Stars for three years, estblishing himself as one of the best defensive players in the league. Leads the Stars to two USFL Championships.</li>
+      <li>1986-1994: Joins the New Orleans Saints of the National Football League. Makes four Pro Bowl appearances (1987, 1988, 1991, 1992) before becoming a free agent at the end of the 1994 season.</li>
+      <li>1995: Joins the Carolina Panthers and earns fifth Pro Bowl appearance at 37 years old.</li>
+      <li>1998: Retires after the 1997 season. Becomes a defensive coaching assistant for the Carolina Panthers.</li>
+      <li>1999: Promoted to linebackers coach for the Panthers.</li>
+      <li>2003: Diagnosed with intestinal cancer. Undergoes chemotherapy and continues to coach despite being told he has months to live. Tells his team to "keep pounding" in a heartfelt speech before their victory over the Dallas Cowboys in the playoffs that season. The words later become the name of a cancer research fund as well as a team slogan of the Carolina Panthers.</li>
+      <li>2005: Dies in his home in Charlotte, NC.</li>
+      <li>2009: Inducted into the College Football Hall of Fame.</li>
+    </ul>
+  </div>
+  <div class="link text-center align-center col-xs-12">
+      <h4>"I always want to be the first person to know how bad I am and the last person to know how good I am. As long as I live by that, I'll always strive to be better." -Sam Mills</h4>
+      <h3>Click <a href="https://www.youtube.com/watch?v=08r83gq4KhE&t=133s" target="_blank">here</a> to watch the preview of "Sam Mills: A Football Life"</h3>
+  </div>
+</div>

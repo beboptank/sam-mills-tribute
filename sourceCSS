@@ -1,0 +1,27 @@
+.title {
+  font-family: 'Anton', sans-serif;
+}
+
+.link {
+  font-family:'Anton', sans-serif;
+}
+
+.container {
+  background-color: #101820;
+}
+
+.col-xs-12 {
+  background-color: #0085CA;
+}
+
+a {
+  color: #A5ACAF;
+}
+
+li {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.list {
+  font-family: 'Open Sans', sans-serif;
+}
